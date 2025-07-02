@@ -2,7 +2,7 @@
 
 ** `Desenvolvedor Web`**
 
-Meu nome é bruno luan, tenho 18 anos e sou natural do maranhão.
+Meu nome é Bruno Luan, tenho 18 anos e sou natural do maranhão.
 conclui o ensino medio no IEMA, com o curso tecnico em informática, 
 atualmente estou cursando análise e desenvolvimendo de sistemas na UniGoias.
 
