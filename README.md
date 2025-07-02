@@ -1,6 +1,6 @@
  # 👨‍💻 Bruno Luan 
 
-** `Desenvolvedor Web`**
+**`Desenvolvedor Web`**
 
 Meu nome é Bruno Luan, tenho 18 anos e sou natural do maranhão.
 conclui o ensino medio no IEMA, com o curso tecnico em informática, 
