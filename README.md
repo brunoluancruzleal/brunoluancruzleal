@@ -21,21 +21,22 @@ atualmente estou cursando análise e desenvolvimendo de sistemas na UniGoias.
 
 
 <img
-    aling ="left"
+    align ="left"
     width ="30px"
+ style ="padding-right:10"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
           
 <img
-    aling ="left"
+    align ="left"
     width ="30px"
-    padding-right ="10px"
+ style ="padding-right:10"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
           
 <img
-    aling ="left"
+    align ="left"
     width ="30px"
-    padding ="10px;"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+   style ="padding-right:10"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
           
 <br/>
 <br/>
@@ -44,9 +45,13 @@ atualmente estou cursando análise e desenvolvimendo de sistemas na UniGoias.
 ### 📊 Estatísticas
 
 <img
-    align ="left"
+    aling ="left"
     height ="200"
     src="https://github-readme-stats.vercel.app/api?username=brunoluancruzleal&show_icons=true&theme=dracula&locale=pt-br" />
+
+
+
+
 
 
 
