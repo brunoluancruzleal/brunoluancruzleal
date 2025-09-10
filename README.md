@@ -20,17 +20,6 @@ atualmente estou cursando análise e desenvolvimendo de sistemas na UniGoias.
 
 
 
-<img
-    align ="left"
-    width ="30px"
- style ="padding-right:10"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-          
-<img
-    align ="left"
-    width ="30px"
- style ="padding-right:10"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
           
 <img
     align ="left"
